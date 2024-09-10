@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\blockitem\\nearbyblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\blockitem\\nearbyblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\blockitem\\matchingblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\blockitem\\matchingblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\blockitem\\itemtype\\rainbowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\blockitem\\itemtype\\rainbowitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\blockitem\\baseblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\blockitem\\baseblockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\block\\blocknodegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\block\\blocknodegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|c:\\users\\hjh\\desktop\\jun-c\\github\\minipuzzle\\assets\\scripts\\objects\\block\\blocknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objects\\block\\blocknode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NearbyBlockItem.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\NearbyBlockItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\BlockItem\\NearbyBlockItem.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\NearbyBlockItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\BlockItem\\NearbyBlockItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:26.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchingBlockItem.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\MatchingBlockItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\BlockItem\\MatchingBlockItem.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\MatchingBlockItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\BlockItem\\MatchingBlockItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RainbowItem.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\ItemType\\RainbowItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\BlockItem\\ItemType\\RainbowItem.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\ItemType\\RainbowItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\BlockItem\\ItemType\\RainbowItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:22.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseBlockItem.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\BaseBlockItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\BlockItem\\BaseBlockItem.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\BlockItem\\BaseBlockItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\BlockItem\\BaseBlockItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:20.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockNodeGroup.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\Block\\BlockNodeGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Block\\BlockNodeGroup.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\Block\\BlockNodeGroup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Block\\BlockNodeGroup.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:57:12.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlockNode.cs",
+              "DocumentMoniker": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\Block\\BlockNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objects\\Block\\BlockNode.cs",
+              "ToolTip": "C:\\Users\\HJH\\Desktop\\Jun-C\\GitHub\\MiniPuzzle\\Assets\\Scripts\\Objects\\Block\\BlockNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objects\\Block\\BlockNode.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAIwAoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:55:31.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

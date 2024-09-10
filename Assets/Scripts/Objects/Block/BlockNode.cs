@@ -231,21 +231,15 @@ public class BlockNode : MonoBehaviour
 
         while(blockItem == null)
         {
-            if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.Up] != null
-            && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.Up].blockItem != null
-            && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.Up].blockItem.IsMoveState == false)
+            if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.Up]?.blockItem?.IsMoveState == false)
             {
                 blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.Up].GetBlockItem(this);
             }
-            else if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.LeftUp] != null
-                && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.LeftUp].blockItem != null
-                && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.LeftUp].blockItem.IsMoveState == false)
+            else if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.LeftUp]?.blockItem?.IsMoveState == false)
             {
                 blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.LeftUp].GetBlockItem(this);
             }
-            else if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.RightUp] != null
-                && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.RightUp].blockItem != null
-                && blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.RightUp].blockItem.IsMoveState == false)
+            else if (blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.RightUp]?.blockItem?.IsMoveState == false)
             {
                 blockNodeArray[(int)ENUM_BLOCKNODE_DIRECTION.RightUp].GetBlockItem(this);
             }

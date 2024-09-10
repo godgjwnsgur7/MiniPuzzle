@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>latest</LangVersion>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8F070A91-FE8E-4C1F-F243-F251FB3AA0E8}</ProjectGuid>
+    <ProjectGuid>{58C57040-AFC0-E5D3-F6DB-C6F7C3B18B96}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,6 +53,9 @@
     <UnityVersion>2020.3.27f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="Assets\Scripts\Objects\BlockItem\BaseBlockItem.cs" />
     <Compile Include="Assets\Scripts\Objects\Block\BlockNode.cs" />
     <Compile Include="Assets\Scripts\Managers\Managers.cs" />
@@ -65,16 +68,16 @@
     <Compile Include="Assets\Scripts\UI\GameCanvas\PauseMenuUI.cs" />
     <Compile Include="Assets\Scripts\Objects\BlockItem\ItemType\RainbowItem.cs" />
     <Compile Include="Assets\Scripts\UI\GameCanvas\ClearNotifyWindowUI.cs" />
+    <Compile Include="Assets\Scripts\UI\UIEffect\BaseUIEffect.cs" />
     <Compile Include="Assets\Scripts\Objects\ItemManagement.cs" />
     <Compile Include="Assets\Scripts\Managers\UIManager.cs" />
     <Compile Include="Assets\Scripts\Utils\CoroutineHelper.cs" />
     <Compile Include="Assets\Scripts\UI\@Canvas\GameCanvas.cs" />
     <Compile Include="Assets\Scripts\Utils\EnumDefine.cs" />
+    <Compile Include="Assets\Scripts\UI\UIEffect\ClearConditionUIEffect.cs" />
     <Compile Include="Assets\Scripts\Objects\BlockItem\NearbyBlockItem.cs" />
     <Compile Include="Assets\Scripts\Utils\EffectGenerator.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
-    <Compile Include="Assets\Scripts\UI\UIEffect\BaseUIEffect.cs" />
-    <Compile Include="Assets\Scripts\UI\UIEffect\ClearConditionUIEffect.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
